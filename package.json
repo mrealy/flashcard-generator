@@ -1,0 +1,28 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "App for reading flashcards to assist with memorization",
+  "main": "flashcard.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrealy/flashcard-generator.git"
+  },
+  "keywords": [
+    "node",
+    "modules"
+  ],
+  "author": "Michael",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mrealy/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/mrealy/flashcard-generator#readme"
+}
